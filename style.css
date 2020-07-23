@@ -21,8 +21,8 @@ body{
     background-color: orange;
 }
 .status{
-    margin: 0 20px;
+    margin: 5px 20px;
     color: white;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
 }
